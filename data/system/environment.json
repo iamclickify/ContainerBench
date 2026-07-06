@@ -1,0 +1,8 @@
+{
+    "operating_system": "Windows 11 (10.0.26200)",
+    "python_version": "3.12.7",
+    "docker_version": "29.5.2, build 79eb04c",
+    "cpu_model": "Intel64 Family 6 Model 151 Stepping 2, GenuineIntel",
+    "cpu_core_count": 12,
+    "total_ram": "Unknown RAM"
+}

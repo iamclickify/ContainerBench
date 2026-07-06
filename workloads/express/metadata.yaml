@@ -1,0 +1,12 @@
+name: express
+language: javascript
+framework: express
+context: app
+image_name: containerbench/express
+dockerfiles:
+  baseline: Dockerfile
+  alpine: Dockerfile.alpine
+  slim: Dockerfile.slim
+  multistage: Dockerfile.multistage
+  alpine-multistage: Dockerfile.alpine-multistage
+  distroless: Dockerfile.distroless

@@ -1,0 +1,3 @@
+# ContainerBench Dependencies
+# Standard library is used for the core package.
+# In the future, dependencies like PyYAML, Docker SDK, or Pandas can be added here.

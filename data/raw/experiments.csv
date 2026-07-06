@@ -1,0 +1,2 @@
+run_id,timestamp,workload,strategy,repetition,build_time_seconds,image_size_mb,layer_count,startup_time_seconds,critical_vulnerabilities,high_vulnerabilities,medium_vulnerabilities,low_vulnerabilities,unknown_vulnerabilities,build_status,startup_status,security_scan_status,overall_status,notes
+run_4ec83896,2026-07-06T17:40:36,express,multistage,1,3.942,390.08,10,1.157,,,,,,PASS,PASS,SKIPPED,PASS,Successful build; TRIVY_NOT_INSTALLED
